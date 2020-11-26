@@ -1,0 +1,12 @@
+{
+  "name": "proxy-scrapper",
+  "version": "1.0.0",
+  "description": "Example how to use puppeteer to do scrapping of proxy list from web sites",
+  "main": "proxy.js",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  },
+  "devDependencies": {},
+  "author": "Mesud Pasic",
+  "license": "ISC"
+}
